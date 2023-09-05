@@ -1,0 +1,4 @@
+Test_type: adaptation dose: 3
+Exit_postprocess: marginal 2
+Block_size: 1024
+Grid_size: 128

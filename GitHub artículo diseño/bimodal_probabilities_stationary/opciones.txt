@@ -1,0 +1,4 @@
+Dimension: 2
+Mesh_type: linear
+Grid_size: 64
+Exit_postprocess: none

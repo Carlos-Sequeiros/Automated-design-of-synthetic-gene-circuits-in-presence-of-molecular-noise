@@ -1,6 +1,6 @@
 # Automated-design-of-synthetic-gene-circuits-in-presence-of-molecular-noise
 Example code for the article _Automated design of synthetic gene circuits in presence of molecular noise_
-by Carlos Sequeiros, Irene Otero-Muras, Carlos Vázquez and Julio R. Banga
+by Carlos Sequeiros, Carlos Vázquez, Julio R. Banga and Irene Otero-Muras
 ## Requirements
 - The code has been tested on Windows 10 64 bits
 - A CUDA capable GPU

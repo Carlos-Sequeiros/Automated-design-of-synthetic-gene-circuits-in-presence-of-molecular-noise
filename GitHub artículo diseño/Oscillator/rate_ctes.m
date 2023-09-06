@@ -13,22 +13,6 @@ function [nu,propensity]=rate_ctes(j,n,H,K,reaction_constants)
         % mRNA3 -> 0          : rc=gamma1_3
         % P3    -> 0          : rc=gamma2_3
         
-        %u_tempo = 0.25e4; % dimensionless
-        %gamma1_1  = 0.01*u_tempo; 
-        %gamma2_1  = 0.0004*u_tempo;
-        %a_param_1 = 10;
-        %b_param_1 = 10;
-        %k1_1      = a_param_1*gamma2_1;
-        %k2_1      = b_param_1*gamma1_1;
-        %gamma1_2  = 0.01*u_tempo; 
-        %gamma2_2  = 0.0004*u_tempo;
-        %a_param_2 = 10;
-        %b_param_2 = 5;
-        %k1_2      = a_param_2*gamma2_2;
-        %k2_2      = b_param_2*gamma1_2;
-        %H_param_2 = -4;
-        %k_param_2 = 70;
-        %epsilon_2 = 0.1;
         nonzero_elements=sum(H~=0);
         disp('entra')
         c0=zeros(1,j);

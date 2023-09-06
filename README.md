@@ -2,6 +2,7 @@
 Example code for the article _Automated design of synthetic gene circuits in presence of molecular noise_
 by Carlos Sequeiros, Irene Otero-Muras, Carlos Vázquez and Julio R. Banga
 ## Requirements
+- The code has been tested on Windows 10 64 bits
 - A CUDA capable GPU
 - MATLAB optimization toolbox
 - MATLAB parallel computing toolbox

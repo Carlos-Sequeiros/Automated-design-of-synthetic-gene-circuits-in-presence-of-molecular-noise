@@ -1,4 +1,5 @@
 function cx=f_cx_v2(x,H,K,epsilon,ci)
+%%% Code based on SELANSI by Manuel Pajaro et. al. %%%
     n=size(H,2);
     indreg=cell(n,1);
     for i=1:n

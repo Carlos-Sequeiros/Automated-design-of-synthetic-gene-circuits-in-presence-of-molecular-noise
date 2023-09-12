@@ -6,7 +6,7 @@ by Carlos Sequeiros, Carlos Vázquez, Julio R. Banga and Irene Otero-Muras
 - A CUDA capable GPU
 - MATLAB optimization toolbox
 - MATLAB parallel computing toolbox
-- [MEIGO toolbox](http://gingproc.iim.csic.es/meigo.html)
+- [MEIGO toolbox](https://github.com/gingproc-IIM-CSIC/MEIGO64)
 ## Instructions
 - Install MEIGO in the current MATLAB session by running `install_MEIGO.m` in MEIGO folder
 - Go inside the desired example's folder where `.m` files are located
